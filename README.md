@@ -9,6 +9,11 @@ rendering real-time process status in a floating window, and much more.
  * Issues: https://github.com/NetEase/Emmagee/issues
  * Tags: Android, Java 
 
+<img src="https://github.com/andrewleo/pictures/blob/master/Emmagee/V2.0/homepage.png" width="180px" />
+&nbsp;
+<img src="https://github.com/andrewleo/pictures/blob/master/Emmagee/V2.0/settings.png" width="180px" />
+&nbsp;
+<img src="https://github.com/andrewleo/pictures/blob/master/Emmagee/V2.0/mailsettings.png" width="180px" />
 
 ## Why should I use Emmagee?
 
@@ -16,7 +21,7 @@ Unlike most other performance test tools that only do system-level monitoring, E
 you should not miss:
 * Open source
 * Easy to use
-* Process-specific monitoring, including CPU, memory, network traffic, battery current and status
+* Process-specific monitoring, including CPU, memory, network traffic, battery current, launching time and status
 * Floating window that renders real-time process status
 * CSV format report that can be converted into any other format you want
 * User-defined collecting interval
@@ -37,7 +42,7 @@ And Enjoy!
 If you want to stop the test, just go back to Emmagee and click Stop button.
 
 ## Coming Soon
-* Integrating FPS and starting time
+* We want you to decide!
 
 ## How to Contribute?
 
@@ -50,11 +55,13 @@ You are welcome to contribute to Emmagee, meanwhile you'd better follow the rule
 
 ## Contributors
 * NetEase, Inc.
+* [yrom](https://github.com/yrom)
+* [LukeOwncloud](https://github.com/LukeOwncloud)
 
 ## License
 (The Apache License)
 
-Copyright (c) 2012-2013 NetEase, Inc. and other contributors
+Copyright (c) 2012-2015 NetEase, Inc. and other contributors
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
